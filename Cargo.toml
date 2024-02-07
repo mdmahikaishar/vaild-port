@@ -1,0 +1,11 @@
+[package]
+name = "vaild-port"
+version = "0.1.0"
+description = "Rust port scanner."
+authors = ["mdmahikaishar <mahikaishar@gmail.ocm>"]
+edition = "2021"
+repository = "https://github.com/mdmahikaishar/valid-port"
+keywords = ["port", "scanner", "port-scanner"]
+license = "MIT"
+readme = "README.md"
+include = ["src/**", "README.md"]
